@@ -1,1 +1,1 @@
-# About-page
+This is the repo for my personal web page. I had to make an entire webpage for an assignement (only HTML and CSS) and decided to use the main page for personal use.    
