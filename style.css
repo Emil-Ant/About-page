@@ -265,38 +265,6 @@ th {
 }
 
 /*responsive */
-@media screen and (min-width: 526px) {
-    .home-main {
-        display: grid;
-        margin-top: 1.5rem;
-        grid-template-columns: 1fr 1fr;
-        grid-template-areas: "welcome welcome"
-            "find tldr"
-            "contact contact"
-    }           
-    .welcome {
-        grid-area: welcome;
-    }
-
-    .find {
-        grid-area: find;
-    }
-
-    .tldr {
-        grid-area: tldr;
-    }
-
-    .contact {
-        grid-area: contact;
-    }
-
-    nav {
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-    }
-    
-}
 
 @media screen and (min-width: 930px) { 
     .home-main { 
