@@ -97,7 +97,7 @@ footer {
     display: flex;
     flex-direction: column; 
     text-align: center;
-    color: black;
+    color: white;
     font-style: italic;
     font-weight: bolder;
 }
@@ -149,15 +149,15 @@ caption {
 
 .about-main section { 
     background-color: white;
-    border-left: 5px solid orangered;
-    margin-top: 5rem;
+    border-left: 5px solid green;
+    margin-top: 1rem;
     margin-bottom: 5rem;
     padding: 1rem;
 }
 
 .about-main section h2 { 
     text-align: center; 
-    color: orangered;
+    color: black;
 }
 
 .about-main p {
@@ -171,7 +171,7 @@ caption {
 .about-main h3 {
     margin: 0.7em;
     font-size: 1.5em;
-    border-bottom: 1px solid orangered;
+    border-bottom: 1px solid black;
 }
 
 .languages ul { 
@@ -184,7 +184,7 @@ caption {
     list-style: none;
     display: block;
     padding: 0;
-    border-top: 3px solid orangered;
+    border-top: 3px solid black;
 }
 
 .recommendation-main { 
