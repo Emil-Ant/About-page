@@ -28,8 +28,9 @@
 }
 
 html {
-    background-image: url(pexels-lisa-fotios-1375986.jpg);
-    background-color: var(--base-color);
+    /* background-image: url(pexels-lisa-fotios-1375986.jpg);
+    background-color: var(--base-color); */
+    background-color: black;
     background-repeat: no-repeat;
     background-size: cover;
 }
