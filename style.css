@@ -147,7 +147,7 @@ caption {
 
 .about-main section { 
     background-color: white;
-    border-left: 5px solid orangered;
+    border-left: 5px dashed black;
     margin-top: 1rem;
     margin-bottom: 5rem;
     padding: 1rem;
