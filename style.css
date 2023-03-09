@@ -241,15 +241,16 @@ th {
     border: 2px solid var(--recommendation-page);
 }
 
+.in-page-nav a {
+    border-bottom: 3px solid transparent;
+    transition: border-color 0.3s ease-in-out;
+}
 
 /* hover  */
 @media (hover: hover) {
     .in-page-nav a:hover {
-        background-color: var(--base-color);
-        padding: 0.1rem;
-        border-radius: 6px;
-        transition: 0.3s ease-in-out;
-    }      
+        border-color:  var(--base-color);
+    }    
 
     .contact a:hover { 
         opacity: 0.5;
