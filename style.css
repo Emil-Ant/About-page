@@ -261,7 +261,6 @@ th {
 @media screen and (min-width: 526px) {
     .home-main {
         display: grid;
-        margin-top: 1.5rem;
         grid-template-columns: 1fr 1fr;
         grid-template-areas: "welcome welcome"
             "find tldr"
