@@ -1,8 +1,5 @@
 :root {
   --base-color: rgb(250, 194, 145, 0.8);
-  --main-color: rgb(250, 235, 215, 0.7);
-  --about-page: rgba(255, 77, 77, 0.9);
-  --recommendation-page: rgb(86, 124, 167);
 }
 
 @font-face {
@@ -208,11 +205,6 @@ caption {
     transition: 0.3s ease-in-out;
   }
 
-  main nav ul li:hover {
-    background-color: var(--recommendation-page);
-    text-decoration: none;
-    transition: 0.5s ease-out;
-  }
 }
 
 /*responsive */
@@ -257,9 +249,6 @@ caption {
   .home-main .contact {
     padding: 0.4em;
   }
-}
-
-@media screen and (min-width: 1026px) {
 }
 
 @media screen and (min-width: 1500px) {
